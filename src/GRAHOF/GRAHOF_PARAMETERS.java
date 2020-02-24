@@ -1,7 +1,5 @@
 package GRAHOF;
 
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
-
 /**
  * All parameters used by GRAHOF (alpha is currently hard-coded though)
  */
@@ -45,11 +43,7 @@ public class GRAHOF_PARAMETERS {
         /*
          * This is currently in development
          */
-        if (E != -1) {
-            throw new NotImplementedException();
-        } else {
-            this.E = E;
-        }
+        this.E = E;
     }
 
     /**

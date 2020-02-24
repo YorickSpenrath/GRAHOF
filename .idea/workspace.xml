@@ -2,16 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615e2fc0-60d9-40ee-b3b9-5f08082561e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Experiments/AHOT_TESTER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Experiments/Case_Info_Streamer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Experiments/Datapoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Experiments/Experiment_GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Experiments/Experiment_GRAHOF_Comparison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Experiments/Experiment_Kropman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Experiments/Experiment_S.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Experiments/Experiment_SP_SIM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GRAHOF/stuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GRAHOF/stuff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pictures/lthtplot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AHOT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AHOT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Algorithms/BottleneckAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Algorithms/BottleneckAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Algorithms/Model_Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Algorithms/Model_Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Algorithms/Model_Weights_BStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Algorithms/Model_Weights_BStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ConceptDrift/Timer/ConstantTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ConceptDrift/Timer/ConstantTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ConceptDrift/Timer/ExponentialTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ConceptDrift/Timer/ExponentialTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ConceptDrift/Timer/ParabolicTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ConceptDrift/Timer/ParabolicTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Experiments/EXPERIMENTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Experiments/EXPERIMENTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Experiments/Experiment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Experiments/Experiment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Entities/Batch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Entities/Batch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Entities/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Entities/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/GRAHOF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/GRAHOF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/GRAHOF_PARAMETERS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/GRAHOF_PARAMETERS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Metrics/Accuracy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Metrics/Accuracy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Metrics/F1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Metrics/F1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Metrics/Score_Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/Metrics/Score_Tracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/StreamSaver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/StreamSaver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/stuff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/GRAHOF/stuff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/META-INF/AHOT.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/EventLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/EventLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/EventStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/EventStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/EventStreamGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/EventStreamGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/Start_Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/Start_Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/_csv_stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/ProcessUnits/_csv_stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Visualisation/GRAHOF_CANVAS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Visualisation/GRAHOF_CANVAS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Visualisation/Plot/Data_plot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Visualisation/Plot/Data_plot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AHOT/Visualisation/Plot/timer_plot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AHOT/Visualisation/Plot/timer_plot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GRAHOF/GRAHOF_PARAMETERS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GRAHOF/GRAHOF_PARAMETERS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +44,42 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GRAHOF/GRAHOF_PARAMETERS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProcessUnits/EventStreamGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#10723#10724#0" expanded="true" />
+                <element signature="e#10777#10778#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,7 +108,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -101,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/ProcessUnits/SimulationFactory.java" />
         <option value="$PROJECT_DIR$/src/ProcessUnits/SimulationFactoryBPM.java" />
         <option value="$PROJECT_DIR$/src/ProcessUnits/Start_Event.java" />
-        <option value="$PROJECT_DIR$/src/GRAHOF/GRAHOF_PARAMETERS.java" />
         <option value="$PROJECT_DIR$/src/GRAHOF/GRAHOF.java" />
         <option value="$PROJECT_DIR$/src/GRAHOF/StreamSaver.java" />
         <option value="$PROJECT_DIR$/src/Experiments/Experiment.java" />
@@ -110,16 +160,17 @@
         <option value="$PROJECT_DIR$/src/Visualisation/GRAHOF_CANVAS.java" />
         <option value="$PROJECT_DIR$/src/Visualisation/GRAHOF_LISTENER.java" />
         <option value="$PROJECT_DIR$/src/Visualisation/PAINT_TOOLS.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Experiments/VISUALISATION.java" />
         <option value="$PROJECT_DIR$/src/GRAHOF/stuff.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/GRAHOF/GRAHOF_PARAMETERS.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-9" />
     <option name="width" value="975" />
-    <option name="height" value="1047" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -130,34 +181,33 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AHOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AHOT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AHOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AHOT" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AHOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AHOT" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AHOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AHOT" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GRAHOF" type="b2602c69:ProjectViewProjectNode" />
               <item name="GRAHOF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GRAHOF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GRAHOF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GRAHOF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GRAHOF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ProcessUnits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GRAHOF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,11 +215,12 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552839303578" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/commons-math3-3.6.1.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
@@ -223,7 +274,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -231,10 +282,10 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" x="968" y="58" width="628" height="1283" id="Project" order="6" visible="true" weight="0.377336" />
+      <window_info content_ui="combo" x="968" y="58" width="628" height="1283" id="Project" order="6" visible="true" weight="0.38255033" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" x="576" y="286" width="767" height="467" id="Find" order="1" type="FLOATING" weight="0.3289166" />
-      <window_info anchor="bottom" x="23" y="466" width="2515" height="469" id="Run" order="2" weight="0.23928294" />
+      <window_info anchor="bottom" x="23" y="466" width="2515" height="469" id="Run" order="2" weight="0.23796034" />
       <window_info anchor="bottom" x="23" y="446" width="2515" height="508" id="Debug" order="3" weight="0.40195015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,7 +293,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3281372" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -346,20 +397,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment2.java" />
     <entry file="file://$PROJECT_DIR$/src/GRAHOF/saveEL.java" />
     <entry file="file://$PROJECT_DIR$/src/GRAHOF/Model.java" />
     <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_SP.java" />
-    <entry file="file://$PROJECT_DIR$/src/Pictures/lthtplot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pictures/lthtplot.java" />
     <entry file="file://$PROJECT_DIR$/src/ConceptDrift/Timer/ExponentialTimer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -421,58 +462,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_GCD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="83" column="40" lean-forward="true" selection-start-column="2" selection-end-line="93" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_Kropman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="70" column="41" lean-forward="true" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_GRAHOF_Comparison.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_GCD.java" />
+    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_Kropman.java" />
+    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_GRAHOF_Comparison.java" />
     <entry file="file://$PROJECT_DIR$/src/GRAHOF/Batch.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="187" selection-start-line="187" selection-end-line="187" />
-          <folding>
-            <element signature="e#5325#5326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/awt/Component.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="1401" lean-forward="true" selection-start-line="1401" selection-end-line="1401" />
-          <folding>
-            <element signature="e#42569#42570#0" expanded="true" />
-            <element signature="e#42632#42633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/util/ArrayList.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/awt/Component.class" />
     <entry file="file://$PROJECT_DIR$/src/GRAHOF/GRAHOF_ARTIST.java" />
     <entry file="file://$PROJECT_DIR$/src/ProcessUnits/VolatileSimulationFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_SP_SIM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="36" column="111" selection-start-line="36" selection-start-column="108" selection-end-line="36" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Experiments/Experiment_SP_SIM.java" />
     <entry file="file://$PROJECT_DIR$/src/GRAHOF/Entities/Batch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1198">
@@ -532,16 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProcessUnits/Case.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProcessUnits/Event.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -575,24 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProcessUnits/EventStreamGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1062">
-          <caret line="324" lean-forward="true" selection-start-line="324" selection-end-line="324" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6172#6173#0" expanded="true" />
-            <element signature="e#6244#6245#0" expanded="true" />
-            <element signature="e#10154#10155#0" expanded="true" />
-            <element signature="e#10196#10197#0" expanded="true" />
-            <element signature="e#10245#10246#0" expanded="true" />
-            <element signature="e#10298#10299#0" expanded="true" />
-            <element signature="e#10723#10724#0" expanded="true" />
-            <element signature="e#10777#10778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProcessUnits/SimulationFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -616,13 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GRAHOF/GRAHOF_PARAMETERS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1130">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>
@@ -702,15 +665,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Visualisation/Painter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visualisation/Painter.java" />
     <entry file="file://$PROJECT_DIR$/src/Visualisation/GRAHOF_CANVAS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1011">
@@ -818,13 +773,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProcessUnits/Case.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProcessUnits/EventStreamGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#10723#10724#0" expanded="true" />
+            <element signature="e#10777#10778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/sun/reflect/generics/reflectiveObjects/NotImplementedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GRAHOF/GRAHOF_PARAMETERS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -881,6 +869,18 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>AHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
